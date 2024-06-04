@@ -6,3 +6,15 @@ def hello1():
 hello1()
 
 # ---------------------------------------------------------------------
+## python의 파라미터 넘기기
+def hello2(name):
+  print("Hello!")
+  print(name)
+
+hello2("Linda")
+
+## 다수의 파라미터 넘기기
+def number_sum(a, b):
+  print(a + b)
+
+number_sum(3, 5)
