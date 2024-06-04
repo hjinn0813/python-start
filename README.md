@@ -1,2 +1,2 @@
-# python-start
-study python
+# Start to study python
+self-study
